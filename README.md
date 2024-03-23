@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pam+Sanguna!;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&style ="background-color :#003366"&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pam+Sanguna!;"/>
 </h1>
 <img src="https://github.com/psangunna/psangunna/assets/155634961/9379ca94-9486-4f71-9f98-1d1e6d1ac632"/>
 <h3 align="center">Discovering the world of code, expert mistake-maker, relentless learner.</h3>
