@@ -4,6 +4,7 @@
 </h1>
 <h3 align="center">Discovering the world of code, expert mistake-maker, relentless learner.</h3>
 <img align="right" alt= "Coding" width = "400" src="https://camo.githubusercontent.com/be66b11c0585e56d267f6ccdc74f3b7a1b771e8a50b9190d656d652b67f48617/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966"/>
+<img align="right" alt= "Coding" width = "400" src="https://camo.githubusercontent.com/be66b11c0585e56d267f6ccdc74f3b7a1b771e8a50b9190d656d652b67f48617/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966"/>
 
 - 🔭 I'm currently committed **to developing my coding skills**
 
