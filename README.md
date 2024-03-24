@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Garamonds&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pam+Sanguna!";/>
+  <img align ="right" alt= "Coding" src="https://github.com/psangunna/psangunna/assets/155634961/9379ca94-9486-4f71-9f98-1d1e6d1ac632"/> 
 </h1>
-<img align ="right" alt= "Coding" src="https://github.com/psangunna/psangunna/assets/155634961/9379ca94-9486-4f71-9f98-1d1e6d1ac632"/>  
+ 
 <!-- Dos espacios al final de la etiqueta img -->
 
 
